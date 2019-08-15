@@ -1,0 +1,22 @@
+{
+  "name": "salt-jsfs-testCallbackCalculator",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "mocha ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saltsthlm/salt-jsfs-testCallbackCalculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saltsthlm/salt-jsfs-testCallbackCalculator/issues"
+  },
+  "homepage": "https://github.com/saltsthlm/salt-jsfs-testCallbackCalculator#readme",
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  }
+}
